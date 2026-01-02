@@ -1,0 +1,9 @@
+# ignore virtual environment
+.venv/
+
+.venv/*
+
+/*.sh
+/deployment_my_ip.md
+
+*/*.pyc
